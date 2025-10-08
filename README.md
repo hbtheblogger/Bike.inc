@@ -5,7 +5,11 @@ Through this digital game choose your adventure in the creative cycle of making 
 <p>Jack Hunter-Buffington</p>
 </div>
 
-<iframe height="167" frameborder="0" src="https://itch.io/embed/2023088" width="552"><a href="https://hbtheblogger.itch.io/bikeinc">Bike.inc by hbtheblogger</a></iframe>
+{% raw %}
+<iframe src="https://itch.io/embed/2023088" height="167" width="552" frameborder="0"></iframe>
+<p><a href="https://hbtheblogger.itch.io/bikeinc">Bike.inc by hbtheblogger</a></p>
+{% endraw %}
+
 
 Introducing, Bike.inc. This choose your own adventure story puts you in the shoes as a person looking to build a bike brand, and some of the things you will want to consider as you make your decisions. Take one path, or take them all! This educational game looks to think outside the box. It prompts you to think beyond the game and in your own life. You may be small but thinking consciously should not be avoided.
 
