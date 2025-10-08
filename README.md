@@ -1,9 +1,20 @@
-# Bike.inc
+#Title: Bike.inc
+Date: 2025-10-8
+Issue: 3
+Citation: Hunter-Buffington, Jack. "Bike.inc" A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (2025).
+Tags: game, social media, research-creation
+Authors: Jack Hunter-Buffington
+
+Abstract: Bikes
+
+
+Keywords:
+
+
 Through this digital game choose your adventure in the creative cycle of making your own bike brand. 
 
 
-<p>Jack Hunter-Buffington</p>
-</div>
+
 
 [Play *Bike.inc* on itch.io](https://hbtheblogger.itch.io/bikeinc)
 
@@ -33,4 +44,4 @@ Take good care, and go for a bike ride.
 
 -hb the blogger
 
-[
+Bio:
