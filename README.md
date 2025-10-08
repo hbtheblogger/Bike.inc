@@ -33,4 +33,7 @@ I will say using Twine is by no means quick to use. It takes a lot of time. But 
 
 Take good care, and go for a bike ride.
 
+HTML FILE: [Uploading Bike.inc_Review_CTS4000.html…]()
+
+
 -hb the blogger
