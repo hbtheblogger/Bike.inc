@@ -1,21 +1,15 @@
 # Title: Bike.inc
-
-Date: 2025-10-8 15:20
-
+Date: 2025-10-8 4:45
 Issue: 3
-
 Citation: Hunter-Buffington, Jack. "Bike.inc" A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (2025).
-
 Tags: bike, bicycles, game, digital-storytelling, sustainability, research-creation, choose-your-own-adventure
+Keywords: Bike, Sustainability, Storytelling, Creative
 
 Authors: Jack Hunter-Buffington
 
-Abstract: Through this digital game choose your adventure in the creative cycle of making your own bike brand. 
+Abstract: Through this digital game choose your adventure in the creative cycle of making your own bike brand. From sustainable choices to capital entice. What motivates you? How would you shape the future of the cycling industry?
 
-
-Keywords: Bike, Sustainability, Storytelling, Creative
-
-
+## Introduction
 
 [Play *Bike.inc* on itch.io](https://hbtheblogger.itch.io/bikeinc)
 
@@ -44,5 +38,6 @@ I will say using Twine is by no means quick to use. It takes a lot of time. But 
 Take good care, and go for a bike ride.
 
 -hb the blogger
+
 
 Bio: Jack Hunter-Buffington also known as hbtheblogger. A 4th Year CTS Major in the Co-Op program. Sometimes cycling. Always creating. Staying curious, seeking adventure, and taking photos along the way. He's probably at your local thrift store... or drinking coffee... or both.
