@@ -1,9 +1,14 @@
 # Title: Bike.inc
 Date: 2025-10-8 4:45
+
 Issue: 3
+
 Citation: Hunter-Buffington, Jack. "Bike.inc" A Byte of Creativity, special issue of Ctrl-Alt-DH, no. 3 (2025).
+
 Tags: bike, bicycles, game, digital-storytelling, sustainability, research-creation, choose-your-own-adventure
+
 Keywords: Bike, Sustainability, Storytelling, Creative
+
 
 Authors: Jack Hunter-Buffington
 
